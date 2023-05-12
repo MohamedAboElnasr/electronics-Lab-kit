@@ -4,11 +4,10 @@
 
 This is our project that we have made for our subject in college it's made by Enigma Team, and we are going to explain it Step By step.
 
-First of all the project is about a kit that is used in many labs for electronics and circuits testing it has the following capabilities
+First of all the project is about a kit that is used in many labs for electronics and circuits testing it has the following capabilities :
 
 - Power Supply
-- Component Tester
-- PWM
+- Component Tester&PWM
 - Function Generator
 - Logic Probe
 - Switches 
@@ -16,16 +15,31 @@ First of all the project is about a kit that is used in many labs for electronic
 
 
 
-### Power Supply 
+## Power Supply 
 
-* we made a Power supply that can provice the following 
+ we have made a Power supply that can produce various types of voltage, we used L7805 regulator to provide a voltage of 5 
 
-1- 5V +
+- 5V +
 
-2- 5V-
+- 5V-
 
-3- 9V +
+- 9V +
 
-4- 9V-
+- 9V -
 
-5- 0 To 24 V - or +
+- 0 To 24 V - or +
+
+
+.
+.
+.
+.
+
+
+## Component Tester & PWM 
+
+
+
+
+
+
