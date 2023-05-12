@@ -7,7 +7,7 @@ This is our project that we have made for our subject in college it's made by En
 First of all the project is about a kit that is used in many labs for electronics and circuits testing it has the following capabilities :
 
 - Power Supply
-- Component Tester&PWM
+- <a href =#component-tester>Component Tester&PWM</a>
 - Function Generator
 - Logic Probe
 - Switches 
@@ -37,11 +37,11 @@ and this is a list of all the specification:
 <br>
 
 
-## Component Tester & PWM 
+## <p id="component-tester">Component Tester & PWM </p>
 
 This part of the kit is able to Test the Component of our circuit that we are going to do on the kit, it can give us the name or the vlue of the components like Resistors or Capacitors and also Transistors, we have used an arduino uno and lcd screen to display us the out-put beside some resistors and Push buttons 
 
-<div display: "inline-block";>
+<div>
  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1c52a3e7-4664-4ece-8d7a-26d06fa2f2e1" width="450" height="350">
  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/e7bf655b-d8aa-46d9-ae74-85e9594d7bee" width="450" height="350">
 
@@ -61,6 +61,10 @@ This part of the kit is able to Test the Component of our circuit that we are go
 * 3kHz – 65kHz
 * 65kHz – 1MHz
  
+ <div>
+  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1b5025c5-9b0c-499f-b02b-5619f4df0bf0"  width="450" height="350" >
+  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/c24e16ae-428b-459d-83ad-f78b6694b8ae" width="450" height="350">
+ </div>
  
 
 
