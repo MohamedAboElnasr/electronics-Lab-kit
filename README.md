@@ -12,34 +12,55 @@ First of all the project is about a kit that is used in many labs for electronic
 - Logic Probe
 - Switches 
 - Volt and Current Measuring 
-
-
+<br>
+<br>
 
 ## Power Supply 
+First we started to design the Power supply circuit on proteus it has been designed to produce various types of voltage like +5v,-9v and 1.3v  up to 27v of postive and negative values, by using different types Regulators and LM amplifier.
 
- we have made a Power supply that can produce various types of voltage, we used L7805 regulator to provide a voltage of 5 
-
+and this is a list of all the specification:
+ 
 - 5V +
-
-- 5V-
-
+- 5V -
 - 9V +
-
 - 9V -
-
+- 12 +
+- 12 -
 - 0 To 24 V - or +
 
-
-.
-.
-.
-.
+<p>and this is the Sechematic and the 3D Modulation of the circuit </p>
+<div style="text-align:center">
+ <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/5b7545fa-3b7d-47a7-868d-85d837f98506" width="450" height="350" >
+ <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/ad5645e6-a43d-4aa9-9a51-bb76e63104e9" width="450" height="350">
+ </div>
+<br>
+<br>
 
 
 ## Component Tester & PWM 
 
+This part of the kit is able to Test the Component of our circuit that we are going to do on the kit, it can give us the name or the vlue of the components like Resistors or Capacitors and also Transistors, we have used an arduino uno and lcd screen to display us the out-put beside some resistors and Push buttons 
 
+<div>
+ <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1c52a3e7-4664-4ece-8d7a-26d06fa2f2e1" width="450" height="350">
+ <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/e7bf655b-d8aa-46d9-ae74-85e9594d7bee" width="450" height="350">
 
+<br>
+<br>
+ 
+ 
+ ## Function Generator
+ 
+ Function Generator is the part of the kit that is responsbale for producing different shapes of waves, we used the XR2206 IC for making sine,Triangle and Square waves 
 
+ The circuit has the following specification:
+ 
+ * 1Hz – 10Hz
+* 10Hz – 100Hz
+* 100Hz – 3kHz
+* 3kHz – 65kHz
+* 65kHz – 1MHz
+ 
+ 
 
 
