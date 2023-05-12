@@ -42,8 +42,8 @@ and this is a list of all the specification:
 This part of the kit is able to Test the Component of our circuit that we are going to do on the kit, it can give us the name or the vlue of the components like Resistors or Capacitors and also Transistors, we have used an arduino uno and lcd screen to display us the out-put beside some resistors and Push buttons 
 
 <div>
- <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1c52a3e7-4664-4ece-8d7a-26d06fa2f2e1" style=" display: inline-block;">
- <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/e7bf655b-d8aa-46d9-ae74-85e9594d7bee" style=" display: inline-block;">
+ <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1c52a3e7-4664-4ece-8d7a-26d06fa2f2e1" width="450" height="350"
+ <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/e7bf655b-d8aa-46d9-ae74-85e9594d7bee" width="450" height="350">
 
 <br>
 <br>
