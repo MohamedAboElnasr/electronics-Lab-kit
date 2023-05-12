@@ -8,8 +8,8 @@ First of all the project is about a kit that is used in many labs for electronic
 
 - Power Supply
 - <a href =#component-tester>Component Tester&PWM</a>
-- Function Generator
-- Logic Probe
+-<a href="function-generator"> Function Generator</a>
+-<a href=#logic-probe> Logic Probe</a>
 - Switches 
 - Volt and Current Measuring 
 <br>
