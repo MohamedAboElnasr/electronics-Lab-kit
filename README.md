@@ -20,10 +20,10 @@ First of all the project is about a kit that is used in many labs for electronic
 * we made a Power supply that can provice the following 
 1- 5V +
 
-2-5V-
+2- 5V-
 
-3-9V +
+3- 9V +
 
-4-9V-
+4- 9V-
 
-5-0 To 24 V - or +
+5- 0 To 24 V - or +
