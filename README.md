@@ -9,13 +9,13 @@ First of all the project is about a kit that is used in many labs for electronic
 - <a href="#power-supply">Power Supply</a>
 - <a href =#component-tester> Component Tester&PWM</a>
 - <a href="#function-generator"> Function Generator</a>
-- <a href=#logic-probe> Logic Probe </a>
+-  Logic Probe 
 - Switches 
 - Volt and Current Measuring 
 <br>
 <br>
 
-## <p id="power-supply" Power Supply </p>
+## <p id="power-supply"> Power Supply </p>
 First we started to design the Power supply circuit on proteus it has been designed to produce various types of voltage like +5v,-9v and 1.3v  up to 27v of postive and negative values, by using different types Regulators and LM amplifier.
 
 and this is a list of all the specification:
@@ -49,7 +49,7 @@ This part of the kit is able to Test the Component of our circuit that we are go
 <br>
  
  
- ## <p id="function-generator"Function Generator </p>
+ ## <p id="function-generator">Function Generator </p>
  
  Function Generator is the part of the kit that is responsbale for producing different shapes of waves, we used the XR2206 IC for making sine,Triangle and Square waves 
 
