@@ -1,6 +1,6 @@
 # electronics-Lab-kit
 
-<p style='width: 100px; height: 100px;'>Hello There!</p>
+<p style='width: 200px; height: 200px;'>Hello There!</p>
 
 This is our project that we have made for our subject in college it's made by Enigma Team, and we are going to explain it Step By step.
 
