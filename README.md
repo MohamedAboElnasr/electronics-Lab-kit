@@ -6,7 +6,7 @@ This is our project that we have made for our subject in college it's made by En
 
 First of all the project is about a kit that is used in many labs for electronics and circuits testing it has the following capabilities :
 
-- <a href="power-supply">Power Supply</a>
+- <a href="#power-supply">Power Supply</a>
 - <a href =#component-tester> Component Tester&PWM</a>
 - <a href="#function-generator"> Function Generator</a>
 - <a href=#logic-probe> Logic Probe </a>
@@ -49,7 +49,7 @@ This part of the kit is able to Test the Component of our circuit that we are go
 <br>
  
  
- ## <p id="function-generator"Function Generator</p>
+ ## <p id="function-generator"Function Generator </p>
  
  Function Generator is the part of the kit that is responsbale for producing different shapes of waves, we used the XR2206 IC for making sine,Triangle and Square waves 
 
