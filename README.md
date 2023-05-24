@@ -1,4 +1,4 @@
-# Electronics-Trainer-kit
+# Electronics-Lab-kit
 
 <p style='width: 200px; height: 200px;'>Hello There!</p>
 
