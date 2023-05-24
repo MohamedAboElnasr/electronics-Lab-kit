@@ -39,7 +39,7 @@ and this is a list of all the specification:
 
 ## <p id="component-tester">Component Tester & PWM </p>
 
-This part of the kit is able to Test the Component of our circuit that we are going to do on the kit, it can give us the name or the vlue of the components like Resistors or Capacitors and also Transistors, we have used an arduino nano and lcd screen to display us the out-put beside some resistors and Push buttons 
+This part of the kit is able to Test the Component of our circuit that we are going to do on the kit, it can give us the name or the value of the components like Resistors or Capacitors and also Transistors, we have used an arduino nano and lcd screen to display us the out-put beside some resistors and Push buttons 
 
 <div>
  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1c52a3e7-4664-4ece-8d7a-26d06fa2f2e1" width="450" height="350">
