@@ -1,15 +1,15 @@
 # Electronics-Lab-kit
 
-<p style='width: 200px; height: 200px;'>Hello There!</p>
+Hello There!
 
-This is our project that we have made for our subject in college it's made by Enigma Team, and we are going to explain it Step By step.
+This is our project that we have made for our subject in college it's made by Enigma Team, and we are going to demonstrate every part of it.
 
 First of all the project is about a kit that is used in many labs for electronics and circuits testing it has the following capabilities :
 
 - <a href="#power-supply">Power Supply</a>
 - <a href =#component-tester> Component Tester&PWM</a>
 - <a href="#function-generator"> Function Generator</a>
--  Logic Probe 
+- <a href="#logic-probe">Logic Probe</a> 
 - Switches 
 - Volt and Current Measuring 
 <br>
@@ -18,7 +18,7 @@ First of all the project is about a kit that is used in many labs for electronic
 ## <p id="power-supply"> Power Supply </p>
 First we started to design the Power supply circuit on proteus it has been designed to produce various types of voltage like +5v,-9v and 1.3v  up to 27v of postive and negative values, by using different types Regulators and LM amplifier.
 
-and this is a list of all the specification:
+Here is a list of all the specification:
  
 - 5V +
 - 5V -
@@ -28,8 +28,9 @@ and this is a list of all the specification:
 - 12 -
 - 0 To 24 V - or +
 
-<p>and this is the Sechematic and the 3D Modulation of the circuit </p>
+and this is the Sechematic and the 3D Modulation of the circuit
 <div style="text-align:center">
+
  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/5b7545fa-3b7d-47a7-868d-85d837f98506" width="450" height="350" >
  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/ad5645e6-a43d-4aa9-9a51-bb76e63104e9" width="450" height="350">
  </div>
@@ -39,7 +40,7 @@ and this is a list of all the specification:
 
 ## <p id="component-tester">Component Tester & PWM </p>
 
-This part of the kit is able to Test the Component of our circuit that we are going to do on the kit, it can give us the name or the value of the components like Resistors or Capacitors and also Transistors, we have used an arduino nano and lcd screen 16x2 to display us the output beside some resistors and Push buttons 
+This part of the kit is able to Test the Component of our circuit, it can give us the name or the value of the components like Resistors or Capacitors and also Transistors,it's made by an arduino nano and lcd screen to display the information about the component we are testing.
 
 <div>
  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1c52a3e7-4664-4ece-8d7a-26d06fa2f2e1" width="450" height="350">
@@ -51,7 +52,7 @@ This part of the kit is able to Test the Component of our circuit that we are go
  
  ## <p id="function-generator">Function Generator </p>
  
- Function Generator is the part of the kit that is responsbale for producing different shapes of waves, we used the XR2206 IC for making sine,Triangle and Square waves 
+ Function Generator is the part of the kit that is responsbale for producing different types of waves, we used the XR2206 IC for making sine,Triangle and Square waves 
 
  The circuit has the following specification:
  
@@ -61,10 +62,13 @@ This part of the kit is able to Test the Component of our circuit that we are go
 * 3kHz – 65kHz
 * 65kHz – 1MHz
  
- <div>
-  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1b5025c5-9b0c-499f-b02b-5619f4df0bf0"  width="450" height="350" >
-  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/c24e16ae-428b-459d-83ad-f78b6694b8ae" width="450" height="350">
- </div>
+
+ ![function2](https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/2fd388d8-0164-43ed-b835-1da0bdc721d2)
  
+ ![function](https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/3ff708ca-89d6-4f93-bc75-009e077bd2f1)
 
-
+ 
+ 
+## <p id="logic-probe">Logic Probe </p>
+ Logic Probe circuit in the kit is used to indicate the State of input or output of ICs 
+![articles-articles-simple-logic-probe-circuit-diagram-1366409802](https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/eeae0f11-9e0b-4125-97ba-21c472c4ca0a)
