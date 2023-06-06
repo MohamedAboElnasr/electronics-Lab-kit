@@ -9,9 +9,9 @@ First of all the project is about a kit that is used in many labs for electronic
 - <a href="#power-supply">Power Supply</a>
 - <a href =#component-tester> Component Tester&PWM</a>
 - <a href="#function-generator"> Function Generator</a>
-- <a href="#logic-probe">Logic Probe</a> 
-- <a href="#MutliMeter">Volt and Current Measuring </a>
-- <a href="#Final-Project"> Final Project</a>
+- <a href="#logic-probe">Logic Probe</a>
+- <a href="#meter">Volt and Current Measuring </a>
+- <a href="#final-project"> Final Project</a>
 <br>
 <br>
 
@@ -78,12 +78,12 @@ This part of the kit is able to Test the Component of our circuit, it can give u
 <br>
 <br>
  
- ## <p id="MultiMeter"> Volt and Current Measuring </p>
+ ## <p id="meter"> Volt and Current Measuring </p>
  Digital multimeter screen is a device used to measure the Voltage,Power and Current in the circuit
 
 ![62218995-2-pdpxl](https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/804befd5-d891-4345-971a-472ee6eb788b)
  
- ## <p id="Final-Project"> Final Project</p>
+ ## <p id="final-project"> Final Project</p>
  
  Finaly after so much time, effort and Team working we were able to successfully end this project and here is the final project 
  ![20230524_162143](https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/620bf76e-29c1-42c8-aad3-d7989238e311)
