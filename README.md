@@ -40,7 +40,7 @@ and this is the Sechematic and the 3D Modulation of the circuit
 
 ## <p id="component-tester">Component Tester & PWM </p>
 
-This part of the kit is able to Test the Component of our circuit, it can give us the name or the value of the components like Resistors or Capacitors and also Transistors,it's made by an arduino nano and lcd screen to display the information about the component we are testing.
+This part of the kit is able to Test the Component of our circuit, it can give us the name or the value of the components like Resistors or Capacitors and also Transistors ,It's made by an arduino nano and lcd screen to display the information about the component we are testing.
 
 <div>
  <img src="https://github.com/MohamedAboElnasr/electronics-Lab-kit/assets/114421344/1c52a3e7-4664-4ece-8d7a-26d06fa2f2e1" width="450" height="350">
